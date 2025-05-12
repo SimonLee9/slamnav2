@@ -1,0 +1,11 @@
+Signal (6) received.
+/home/odroid/slamnav2/SLAMNAV2(+0x117d50) [0x556fe74d50]
+linux-vdso.so.1(__kernel_rt_sigreturn+0) [0x7faf9d8690]
+/lib/aarch64-linux-gnu/libc.so.6(+0x7f1f0) [0x7fab4ff1f0]
+/lib/aarch64-linux-gnu/libc.so.6(raise+0x1c) [0x7fab4ba67c]
+/lib/aarch64-linux-gnu/libc.so.6(abort+0xe4) [0x7fab4a7130]
+/lib/aarch64-linux-gnu/libQt5Core.so.5(_Z13qErrnoWarningPKcz+0) [0x7faba20f64]
+/lib/aarch64-linux-gnu/libQt5Gui.so.5(_ZN22QGuiApplicationPrivate25createPlatformIntegrationEv+0x166c) [0x7fac20942c]
+/lib/aarch64-linux-gnu/libQt5Gui.so.5(_ZN22QGuiApplicationPrivate21createEventDispatcherEv+0x48) [0x7fac2098dc]
+/lib/aarch64-linux-gnu/libQt5Core.so.5(_ZN23QCoreApplicationPrivate4initEv+0xa48) [0x7fabc33f48]
+/lib/aarch64-linux-gnu/libQt5Gui.so.5(_ZN22QGuiApplicationPrivate4initEv+0x38) [0x7fac20cbe8]
